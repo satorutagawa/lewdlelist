@@ -1,6 +1,6 @@
 import requests
 
-def is_lewd_word(word: str) -> bool:
+def define(word: str) -> bool:
     url = "https://mashape-community-urban-dictionary.p.rapidapi.com/define"
     
     querystring = {"term": word}
@@ -12,4 +12,4 @@ def is_lewd_word(word: str) -> bool:
     
     response = requests.request("GET", url, headers=headers, params=querystring)
 
-    return bool(len(response.json()["list"]))
+    return response.json()["list"]
