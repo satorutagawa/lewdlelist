@@ -15,15 +15,18 @@ def is_valid_word(word: str):
         return True
 
 def is_lewd_word(word: str):
-    lst = web_api.define(word)
+    entries = web_api.define(word)
+
+    if len(entries) < 3:
+        return False
 
     cnt_neighbor = 0
-    for elem in lst:
-        if elem["word"].lower() != word:
+    for elem in entries:
+        if elem["word"].find(' ')==-1 and elem["word"].lower() != word:
             if not (word[-1] == 's' and elem["word"].lower()[0:4] == word[0:4]):
                 cnt_neighbor += 1
 
-    if not lst or float(cnt_neighbor) / float(len(lst)) > 0.5:
+    if float(cnt_neighbor) / float(len(entries)) > 0.5:
         return False
     else:
         return True

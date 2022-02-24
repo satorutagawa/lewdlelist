@@ -11,11 +11,17 @@ class Run_Unit_Tests(unittest.TestCase):
         self.assertFalse(is_valid_word("adaba"))
         self.assertTrue(is_valid_word("aabbc"))
         self.assertTrue(is_valid_word("abcba"))
+        self.assertTrue(is_valid_word("abhus"))
 
     def test_is_lewd_word(self):
         from main import is_lewd_word
 
+        self.assertFalse(is_lewd_word("aabds"))
         self.assertFalse(is_lewd_word("aabed"))
+        self.assertFalse(is_lewd_word("aabel"))
+        self.assertFalse(is_lewd_word("aabfs"))
+        self.assertFalse(is_lewd_word("aadds"))
+        self.assertFalse(is_lewd_word("abibi"))
         self.assertFalse(is_lewd_word("porng"))
 
         self.assertTrue(is_lewd_word("bussy"))
