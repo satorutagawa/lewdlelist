@@ -1,0 +1,20 @@
+5 most common letters
+s 77
+o 52
+e 45
+n 42
+t 38
+
+Vowels count
+a 36
+e 45
+i 36
+o 52
+u 25
+
+Word(s) with 3 unique vowels:
+['urine']
+
+Word(s) with 2 unique vowels:
+['boner', 'taint', 'dildo', 'chode', 'minge', 'gonad', 'queef', 'bulge', 'penis', 'arses', 'asses', 'loads', 'choad', 'quims', 'shite', 'groin', 'gonad', 'grope', 'loins', 'naked', 'pound', 'nudes', 'hiney', 'moans', 'labia', 'pubes', 'boned', 'vulva', 'teats', 'fecal', 'boink', 'moist', 'ropes', 'lubed', 'cream', 'veiny', 'enema', 'organ', 'choke', 'pubic', 'wenis', 'booba']
+
