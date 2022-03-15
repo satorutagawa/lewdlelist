@@ -1,20 +1,23 @@
 5 most common letters
-s 77
-o 52
-e 45
-n 42
-t 38
+s 409
+e 356
+o 308
+r 260
+a 240
 
 Vowels count
-a 36
-e 45
-i 36
-o 52
-u 25
+a 240
+e 356
+i 230
+o 308
+u 164
+
+Word(s) with 4 unique vowels:
+['arouse', 'outie', 'roadie']
 
 Word(s) with 3 unique vowels:
-['urine']
+['adonis', 'ahegao', 'ahegoa', 'ahole', 'anuses', 'areola', 'blowie', 'coitus', 'cougar', 'domina', 'dookie', 'douche', 'eating', 'erotic', 'fukboi', 'goatse', 'hentai', 'jobbie', 'loaded', 'maude', 'moaned', 'moaner', 'nailed', 'nailer', 'nookie', 'nudie', 'oiled', 'orgies', 'period', 'punani', 'quean', 'quiver', 'railed', 'risque', 'sexual', 'toilet', 'tongue', 'urine', 'voyeur', 'zentai']
 
 Word(s) with 2 unique vowels:
-['boner', 'taint', 'dildo', 'chode', 'minge', 'gonad', 'queef', 'bulge', 'penis', 'arses', 'asses', 'loads', 'choad', 'quims', 'shite', 'groin', 'gonad', 'grope', 'loins', 'naked', 'pound', 'nudes', 'hiney', 'moans', 'labia', 'pubes', 'boned', 'vulva', 'teats', 'fecal', 'boink', 'moist', 'ropes', 'lubed', 'cream', 'veiny', 'enema', 'organ', 'choke', 'pubic', 'wenis', 'booba']
+['arsed', 'arses', 'assed', 'asses', 'assjob', 'baked', 'banged', 'bears', 'beats', 'beaver', 'behind', 'beotch', 'bezos', 'bimbo', 'bimbos', 'bites', 'boaby', 'boink', 'boinks', 'bollix', 'boned', 'boner', 'boners', 'bones', 'boning', 'bonked', 'booba', 'booger', 'boris', 'bound', 'boxers', 'brain', 'breast', 'briefs', 'bugger', 'bulge', 'bulges', 'bunda', 'buxom', 'caged', 'cages', 'caning', 'carpet', 'carse', 'cervix', 'chain', 'cheat', 'cheats', 'choad', 'choads', 'choda', 'chode', 'chodes', 'choke', 'choked', 'choker', 'chokes', 'chones', 'cialis', 'climax', 'clunge', 'collar', 'comes', 'cooter', 'cooze', 'corset', 'cream', 'creams', 'cucked', 'cucker', 'cummed', 'cumrag', 'dammit', 'damnit', 'dangle', 'dicked', 'diddle', 'dildo', 'dildos', 'dingle', 'dinked', 'dinkie', 'dinkle', 'dinkus', 'docker', 'doink', 'doinks', 'domme', 'dumper', 'edging', 'enema', 'enemas', 'eroge', 'facial', 'fanjo', 'fapped', 'farted', 'farter', 'fecal', 'femdom', 'femsub', 'fetish', 'fetus', 'fiddle', 'finger', 'fisted', 'flacid', 'fluid', 'fondle', 'forked', 'forker', 'freak', 'freaks', 'freaky', 'frombe', 'fucked', 'fucker', 'fuckme', 'fucko', 'fupas', 'gagged', 'gaped', 'gapes', 'gaping', 'gargle', 'gigolo', 'gobble', 'gonad', 'gonads', 'gooey', 'groin', 'groins', 'grope', 'groped', 'gropes', 'gusher', 'gushes', 'guzzle', 'hairy', 'harem', 'harems', 'harlot', 'hickey', 'himbo', 'himbos', 'hiney', 'hineys', 'holes', 'hooha', 'hooker', 'hucow', 'hummer', 'humped', 'innie', 'jiggle', 'jissom', 'jizzed', 'jizzer', 'juicy', 'karen', 'kipper', 'kurac', 'labia', 'lashes', 'latex', 'layer', 'leash', 'libido', 'licker', 'ligma', 'loads', 'loins', 'loose', 'lover', 'lubed', 'luber', 'lubes', 'magnum', 'master', 'mated', 'meaty', 'melon', 'melons', 'merkin', 'milker', 'minge', 'minges', 'moans', 'moist', 'moped', 'mound', 'mount', 'mowed', 'muffin', 'munter', 'nails', 'naked', 'navel', 'nipple', 'nonce', 'nooner', 'nudes', 'nudist', 'nurse', 'nutbag', 'nutted', 'orally', 'organ', 'organs', 'orgasm', 'otter', 'ovary', 'paddle', 'peach', 'penile', 'penis', 'penisy', 'piers', 'pimped', 'pimper', 'pissed', 'pisser', 'pizzle', 'plate', 'player', 'plowed', 'plower', 'poked', 'pokes', 'ponut', 'ponuts', 'pooder', 'pooner', 'pooper', 'pooter', 'pound', 'pounds', 'precum', 'probe', 'probed', 'prober', 'probes', 'prude', 'pubes', 'pubic', 'pucker', 'puddle', 'punish', 'queef', 'queefs', 'queen', 'queer', 'quicky', 'quims', 'rails', 'rammed', 'ramrod', 'ravish', 'rawdog', 'reams', 'rectum', 'ribbed', 'rimbow', 'rimjob', 'rimmed', 'rimmer', 'roger', 'ropes', 'rough', 'rubbed', 'rubber', 'sadism', 'sadist', 'scream', 'scrode', 'scrote', 'sexier', 'sextoy', 'shaved', 'shite', 'shites', 'slave', 'smegma', 'smole', 'smoles', 'soaks', 'soapy', 'sordid', 'sound', 'spanko', 'spooge', 'spread', 'squirt', 'stain', 'stroke', 'stupid', 'sucked', 'sucker', 'suckle', 'sugma', 'sweat', 'swive', 'sybian', 'tacos', 'taint', 'taints', 'teabag', 'tease', 'teased', 'teases', 'teats', 'throat', 'tiddie', 'titjob', 'todger', 'tosser', 'toyed', 'train', 'turgid', 'unders', 'vadge', 'vagina', 'vagoo', 'vedgie', 'veiny', 'viagra', 'vibes', 'vixen', 'vixens', 'vomit', 'vored', 'vulva', 'wanger', 'wanker', 'waxed', 'weenie', 'weiner', 'wenis', 'whine', 'whore', 'whored', 'whores', 'wiener', 'yearn', 'yeast', 'yonic', 'yonis']
 
